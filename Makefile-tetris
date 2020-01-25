@@ -1,0 +1,8 @@
+CFLAGS	= -O
+
+all:	tetris
+
+tetris:
+	$(CC) $(CFLAGS) tetris.c -o tetris
+clean:
+	rm *.o tetris
