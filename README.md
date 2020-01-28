@@ -1,6 +1,7 @@
 # 211bsd.pdp11
 
 pdp11tetris.tar contains a reasonably original looking variant, precompiled binary included (use -c for colour terminal)
+The precompiled binary expects to be able to write to /usr/games/lib/tetris.scores and may be a little cross if it can't.
 
  * Tetris for BSD/386
  *
