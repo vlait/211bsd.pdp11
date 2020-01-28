@@ -57,7 +57,7 @@ enum pccolors {
 
 #define PITY		25
 #define PITWIDTH	12
-#define PITDEPTH	24
+#define PITDEPTH	23
 
 #define TOPSLINE        12      /* tops start at that line */
 
